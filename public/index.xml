@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>simonarde.dev</title>
+    <link>https://simonardejr.github.io/</link>
+    <description>Recent content on simonarde.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>© 2024 Simonarde Lima</copyright>
+    <lastBuildDate>Mon, 20 May 2024 19:49:01 -0300</lastBuildDate><atom:link href="https://simonardejr.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://simonardejr.github.io/posts/hello-world/hello-world/</link>
+      <pubDate>Mon, 20 May 2024 19:49:01 -0300</pubDate>
+      
+      <guid>https://simonardejr.github.io/posts/hello-world/hello-world/</guid>
+      <description>Primeiro post do blog!</description>
+      
+    </item>
+    
+  </channel>
+</rss>
