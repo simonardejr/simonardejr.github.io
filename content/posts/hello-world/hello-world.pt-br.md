@@ -9,9 +9,9 @@ Seja bem vindo ao meu espaço pessoal, aqui pretendo escrever pequenos bits de c
 
 Vou começar falando um pouco mais sobre mim, embora eu seja terrível em apresentações pessoal, aí vai, hahaha. 
 
-Prazer! Me chamo Simonarde Lima, sou graduado em Sistema para Internet pela CESUMAR e pós-graduado em Aplicativos Mobile pelo IESB. Trabalho com desenvolvimento tem só um pouquinho de tempo, comecei minha jornada por volta de 2005 :older_man:, mas antes disso já arranhava fazendo scripts pro mIRC (eita... o joelho chega estalou aqui) e copiando o que a minha mãe fazia no Visual Basic.
+Prazer! Me chamo Simonarde Lima, sou graduado em *Sistema para Internet* pela CESUMAR e pós-graduado em *Aplicativos Mobile* pelo IESB. Trabalho com desenvolvimento tem só um pouquinho de tempo, comecei minha jornada por volta de 2005 :older_man:, mas antes disso já arranhava fazendo scripts pro mIRC (eita... o joelho chega estalou aqui, ouviu aí?) e copiando o que a minha mãe fazia no Visual Basic usando as antigas apostilas do curso que ela tinha hahaha.
 
-Atualmente trabalho PHP, JavaScript (com Vue) e Python. No meu cinto de linguagens tenho ainda Kotlin, Dart (com Flutter) e Swift, além de React, mas posso dizer que não tenho problemas para escrever código em nenhuma outra linguagem, me dê um Monster (Mango Loco, de preferência :grin:) e a documentação, que eu me viro.
+Casado com o amor da minha vida desde 2014 :heart:, atualmente trabalho PHP, JavaScript (com Vue) e Python. No meu cinto de linguagens tenho ainda Kotlin, Dart (com Flutter) e Swift, além de React, mas posso dizer que não tenho problemas para escrever código em nenhuma outra linguagem, me dê um Monster (Mango Loco, de preferência :grin:) e a documentação, que eu me viro.
 
 Conheço bem MySQL e SQLite, engatinho no PostgreSQL, uso o Docker para bastante coisa, e, nesse tempo todo, sempre usei Gnu/Linux (Ubuntu :heart:) e macOS.
 
