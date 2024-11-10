@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Simonarde Lima</copyright>
-    <lastBuildDate>Wed, 22 May 2024 20:49:01 -0300</lastBuildDate><atom:link href="https://simonardejr.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 May 2024 22:14:01 -0300</lastBuildDate><atom:link href="https://simonardejr.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Series: Your Blog using Hugo on GitHub Pages (Part 2)</title>
+      <link>https://simonardejr.github.io/en/posts/seu-blog-com-hugo-no-github-pages-parte-2/</link>
+      <pubDate>Wed, 22 May 2024 22:14:01 -0300</pubDate>
+      
+      <guid>https://simonardejr.github.io/en/posts/seu-blog-com-hugo-no-github-pages-parte-2/</guid>
+      <description>How to create and host your blog using hugo on github pages</description>
+      
+    </item>
+    
     <item>
       <title>Series: Your Blog using Hugo on GitHub Pages (Part 1)</title>
       <link>https://simonardejr.github.io/en/posts/seu-blog-com-hugo-no-github-pages-parte-1/</link>

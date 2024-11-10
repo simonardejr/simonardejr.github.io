@@ -15,7 +15,7 @@ Ele é um gerador de páginas estáticas open-source escrito em Go, é bem fexí
 ## Beleza, vamos começar!
 Primeiro, você precisa de uma conta no GitHub, se ainda não tem a sua, vai lá criar, eu te espero!
 
-Pronto? Criou sua conta? Então agora crie um novo repositório com o nome `<seu_usuario>.github.io` (lembre de trocar para o seu usuário).
+Pronto? Criou sua conta? Então agora crie um novo **repositório público** com o nome `<seu_usuario>.github.io` (lembre de trocar para o seu usuário).
 
 {{< alert >}}
 **Importante!** os comandos que você vai ver a seguir foram executados no Debian e devem servir na maioria das distros baseadas nele.
